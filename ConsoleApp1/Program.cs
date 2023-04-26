@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("fdafds");
+            Console.WriteLine("fdafdsadads");
             Console.ReadKey();
         }
     }
